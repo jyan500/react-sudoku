@@ -1,4 +1,5 @@
 React Sudoku
+-------------------------------------------
 
 From Barry Michael Doyle's Udemy Course:
 
